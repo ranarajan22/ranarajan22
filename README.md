@@ -8,10 +8,19 @@ I love building projects, solving problems, and learning new technologies!
 - 🌱 Currently learning **Machine Learning**.
 - 💡 Open to **internships, collaborations, and hackathons**.
 - ⚡ Fun fact: I enjoy **Riding Bike**.
+
+## 🎨 Hobbies & Interests
+- Coding and building side projects  
+- Graphic design and video editing  
+- Exploring new technologies  
+
 <!---
 ranarajan22/ranarajan22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## 🌐 Let's Connect
+- 📧 Email: [ranarajan456@gmail.com](mailto:ranarajan456@gmail.com) 
+- 📸 Instagram: [@rajan_rana22](https://instagram.com/rajan_rana22)
 ## 🛠️ Tech Stack
 
 ### Languages
