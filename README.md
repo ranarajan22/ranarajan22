@@ -5,7 +5,7 @@ I love building projects, solving problems, and learning new technologies!
 
 ## 👨‍💻 About Me
 - 🎓 Pursuing **BTech in Computer Science and Engineering** at GIET University.
-- 🌱 Currently learning **Machine Learning**.
+- 🌱 Currently learning **Web Development**.
 - 💡 Open to **internships, collaborations, and hackathons**.
 - ⚡ Fun fact: I enjoy **Riding Bike**.
 
