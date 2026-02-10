@@ -1,6 +1,6 @@
 
 # Hi there! 👋  
-I'm Rajan Kumar Rana, a 3rd-year BTech student passionate about **Web Development and Competitive Programmming**. 🚀  
+I'm Rajan Kumar Rana, a final year BTech student passionate about **Web Development and Competitive Programmming**. 🚀  
 I love building projects, solving problems, and learning new technologies!
 
 ## 👨‍💻 About Me
