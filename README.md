@@ -18,9 +18,11 @@ I love building projects, solving problems, and learning new technologies!
 ranarajan22/ranarajan22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 🌐 Let's Connect
-- 📧 Email: [ranarajan456@gmail.com](mailto:ranarajan456@gmail.com) 
+## 🌐 Let’s Connect
+- 📧 Email: [ranarajan456@gmail.com](mailto:ranarajan456@gmail.com)
 - 📸 Instagram: [@rajan_rana22](https://instagram.com/rajan_rana22)
+- 💼 LinkedIn: [Rajan Rana](https://www.linkedin.com/in/rajan-rana-3ab524289)
+
 ## 🛠️ Tech Stack
 
 ### Languages
